@@ -1,0 +1,7 @@
+n=int(input("enter any integer value:"))
+
+n=str(n)
+
+m=input("enter the number of count:")
+
+print("count is:",n.count(m))
