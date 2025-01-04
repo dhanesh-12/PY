@@ -1,0 +1,17 @@
+n1=15
+
+n2=30
+
+n1=input("enter the value of x:")
+
+n2=input("enter the value of y:")
+
+temp=n1
+
+n1=n2
+
+n2=temp
+
+print("the value of x after swapping:{}".format(n1))
+
+print("the value of y after swapping:{}".format(n2))
